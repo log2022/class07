@@ -303,6 +303,12 @@ Rede sob medida	| Escolha do transporte mais adequado às necessidades individua
 ]
 
 ---
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="50%"}
+knitr::include_graphics("img/amazon.png")
+```
+
+---
 # Revisão da distribuição de pontos
 
 Pontos|	Entrega|	Atividade
