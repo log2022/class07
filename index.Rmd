@@ -489,7 +489,7 @@ Na terça, 25/1, os democratas da Câmara dos EUA divulgaram a proposta legislat
 [Link]: [Link](https://www.convergenciadigital.com.br/Negocios/Crise-de-semicondutores-faz-estoques-de-chips-despencaram-de-40-para-5-dias-59250.html?UserActiveTemplate=mobile)
 
 ---
-# Revisão da distribuição de pontos - ADM
+# Revisão da distribuição de pontos - EPC
 
 Pontos|	Atividade
 ------|------------
@@ -507,7 +507,7 @@ TOTAL:| 	100 pontos
 
 ---
 
-# Revisão da distribuição de pontos - EPC
+# Revisão da distribuição de pontos - ADM
 
 Pontos|	Atividade
 ------|------------
